@@ -1,0 +1,29 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.main-body {
+    margin: auto;
+    width: 50%;
+    padding: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+ }
+
+ .main-body > header {
+    display: inline-block;
+ }
+
+button {
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
